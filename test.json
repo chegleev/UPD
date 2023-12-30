@@ -1,1 +1,6 @@
-{"apps":[{"Баскетбол":"https://somesite.com/basketball"},{"Футбол":"https://somesite.com/football"},{"Теннис":"https://somesite.com/tennis"}]}
+{"apps":[
+  {"Баскетбол":"https://somesite.com/basketball"},
+  {"Футбол":"https://somesite.com/football"},
+  {"Теннис":"https://somesite.com/tennis"},
+  {"Бокс":"https://somesite.com/box"}]
+}
